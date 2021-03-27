@@ -2,6 +2,13 @@
 
 A virtual version of rock paper scissors! Two players compete by choosing an option and comparing their choices. The game is win, lose, or draw - the loser loses a life. Keep playing until one player has no lives left to live.
 
+## Installation
+Copy repository from Github to prefer project location.
+
+## Credits
+Gabriel Eugenio Chavez Portillo - CREATOR OF THIS REPOSITORY
+Tina Vandervecht - INSTRUCTOR
+
 ## Project Roadmap File
 [Project roadmap Google Doc link](https://docs.google.com/document/d/1RiOdgqE7kzd2GaDF3_QTkekuapT8ZDZLWe8oN7r6vuw/edit?usp=sharing)
 
